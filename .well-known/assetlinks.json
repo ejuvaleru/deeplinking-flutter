@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.luisegg.miscelaneos",
+      "sha256_cert_fingerprints":
+["16:F7:7A:56:95:A8:88:85:BA:1C:2E:0C:27:D7:B2:E5:A0:C2:D7:95:FD:25:29:CD:C5:51:DF:93:30:FC:DD:18"]
+    }
+  }]
